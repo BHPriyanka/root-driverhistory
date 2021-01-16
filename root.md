@@ -6,7 +6,7 @@ Please include a README with your submission describing your approach to solving
 
 We're looking for a solution that is representative of code that you would write on a real project, including tests. You can complete this at your convenience — there isn't a specific deadline for it.
 
-Package your code as a tarball (tar zcvf your-code.tgz your-code-dir) or a gitbundle (GIT_DIR=your-code-dir/.git git bundle create your-code.gitbundle --all). Send the file to us via the Dropbox link in the email we sent to you about this coding exercise. It should be from Chris Evans or Tim Hill.
+Package your code as a tarball (tar zcvf your-code.tgz your-code-dir) or a gitbundle (GIT_DIR=your-code-dir/.git git bundle create your-code.gitbundle --all). Send the file to us via the Dropbox link in the email we sent to you about this coding exercise. 
 
 Problem Statement
 Let's write some code to track driving history for people.
