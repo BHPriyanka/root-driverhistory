@@ -29,18 +29,18 @@ Generate a report containing each driver with total miles driven and average spe
 
 Example input:
 
-Driver Dan
-Driver Lauren
-Driver Kumi
-Trip Dan 07:15 07:45 17.3
-Trip Dan 06:12 06:32 21.8
-Trip Lauren 12:01 13:16 42.0
+Driver Dan  
+Driver Lauren  
+Driver Kumi  
+Trip Dan 07:15 07:45 17.3  
+Trip Dan 06:12 06:32 21.8  
+Trip Lauren 12:01 13:16 42.0  
 
 Expected output:
 
-Lauren: 42 miles @ 34 mph
-Dan: 39 miles @ 47 mph
-Kumi: 0 miles
+Lauren: 42 miles @ 34 mph  
+Dan: 39 miles @ 47 mph  
+Kumi: 0 miles  
 
 Expectations and Evaluation Criteria
 As experienced software engineers know, there's a wide variety of solutions to any problem. Interview coding problems can be especially unclear about expectations as the tasks can range from a quick fizz buzz screening problem to fully fledged applications. Although we've given a relatively simple problem to solve, we're looking for you to implement enough code to demonstrate expertise with domain modeling and testing.
